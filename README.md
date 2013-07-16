@@ -15,3 +15,5 @@ From a high-level perspective, the architecture to audit sensitive operations fo
 Once the data is loaded, a nightly job will process the data to product report tables. 
 These report tables can be viewed by SSRS reports (included).
 
+More Information on SQL Audit and Compliance at http://www.microsoft.com/en-us/download/details.aspx?id=6808
+
